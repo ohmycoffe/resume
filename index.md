@@ -34,7 +34,7 @@ Developing and maintaining an internal system for managing advertising campaigns
 
 - Developed a `Streamlit` app to optimize cost-efficient solar installations for individual buildings in the prosumer system. Implemented the optimization as a **linear model** using the `glpk` solver and deployed on `AWS EC2`.
 
--  Developed the zefir.app application to optimize municipality energy mix and managed a small development team. Worked on the backend with `FastAPI`, `SqlAlchemy`,`Alembic` and data pipelines with `Apache Airflow`, coordinating closely with the `react` frontend to ensure smooth feature delivery and reliable data workflows.
+-  Developed the zefir.app application to optimize municipality energy mix and managed a small development team. Worked on the backend with `FastAPI`, `SqlAlchemy`,`Alembic` and data pipelines with `Apache Airflow`, coordinating closely with the `React` frontend to ensure smooth feature delivery and reliable data workflows.
 
 
 **Publications:**
@@ -57,12 +57,32 @@ various geospatial data (`Python`)"
 ### Master of Science in Electrical Engineering
 **Warsaw University of Technology** | *2011 - 2017*
 
-Thesis: "Utilization of selected methods for assessing the impact of emergency outages in analyses of operating meshed transmission network conditions. Computer program to visualization of cascade failures (`matlab`)."
+Thesis: "Utilization of selected methods for assessing the impact of emergency outages in analyses of operating meshed transmission network conditions. Computer program to visualization of cascade failures (`Matlab`)."
 
 
 ---
 ## Technologies
-`Alembic`, `Apache Airflow`, `Argo Workflows`, `AWS`, `Docker`, `FastAPI`, `Flask`, `Gurobi`, `GitHub`, `Kubernetes`, `NumPy`, `Pandas`, `PostgreSQL`, `Python`, `Snowflake`, `SqlAlchemy`, `Streamlit`, `Tornado`
+
+<div class="tech-pills">
+  <span class="tech-pill">Alembic</span>
+  <span class="tech-pill">Apache Airflow</span>
+  <span class="tech-pill">Argo Workflows</span>
+  <span class="tech-pill">AWS</span>
+  <span class="tech-pill">Docker</span>
+  <span class="tech-pill">FastAPI</span>
+  <span class="tech-pill">Flask</span>
+  <span class="tech-pill">GitHub</span>
+  <span class="tech-pill">Gurobi</span>
+  <span class="tech-pill">Kubernetes</span>
+  <span class="tech-pill">NumPy</span>
+  <span class="tech-pill">Pandas</span>
+  <span class="tech-pill">PostgreSQL</span>
+  <span class="tech-pill">Python</span>
+  <span class="tech-pill">Snowflake</span>
+  <span class="tech-pill">SqlAlchemy</span>
+  <span class="tech-pill">Streamlit</span>
+  <span class="tech-pill">Tornado</span>
+</div>
 
 ## Languages
 

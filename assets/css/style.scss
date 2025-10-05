@@ -101,6 +101,29 @@ code {
   border: 1px solid #e1e4e8;
 }
 
+/* Technologies Pills */
+.tech-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.tech-pill {
+  background-color: #f8f9fa;
+  padding: 0.3rem 0.6rem;
+  border-radius: 6px;
+  font-family: "Monaco", "Menlo", "Ubuntu Mono", monospace;
+  font-size: 0.85em;
+  color: #e74c3c;
+  border: 1px solid #e1e4e8;
+  transition: all 0.2s ease;
+}
+
+.tech-pill:hover {
+  background-color: #ecf0f1;
+  border-color: #d1d5da;
+}
 /* Print Styles */
 @media print {
   body {
