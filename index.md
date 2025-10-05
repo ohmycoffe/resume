@@ -86,7 +86,7 @@ Thesis: "Utilization of selected methods for assessing the impact of emergency o
 
 ## Languages
 
-- English — Upper intermediate (B2)
+- English - Upper intermediate (B2)
 
 ---
 
