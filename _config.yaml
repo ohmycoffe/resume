@@ -1,7 +1,6 @@
 markdown: kramdown
 encoding: "utf-8"
-baseurl: ""  # Leave empty for local development, change to "/resume" for GitHub Pages
+baseurl: ""  # Leave empty for local development
 
 exclude:
   - Makefile
-  - docs
