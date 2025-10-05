@@ -8,7 +8,7 @@ layout: default
 **Software Engineer**
 
 Warsaw, Poland  
-+48 123 456 789  | 📧 [example@gmail.com](mailto:example@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/example) | 🐙 [GitHub](https://GitHub.com/ohmycoffe)
+☎️ +48 123 456 789  | 📧 example@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/krzysztofkrolikowski) | 🐙 [GitHub](https://github.com/ohmycoffe)
 
 
 I’m a software engineer with **5+** years of experience and co-author of **two scientific papers** in electrical engineering.
@@ -28,11 +28,11 @@ Developing and maintaining an internal system for managing advertising campaigns
 
 - Led end-to-end development of data processing tools and advanced optimization models in `Python` using `NumPy`, `Pandas`, and `Gurobi`, creating solutions to optimize Poland’s energy mix, manage power flows, and ensure grid reliability. Processed large datasets efficiently, simulated multiple electricity supply scenarios, and identified cost-effective, low-emission strategies. These models were applied in **two published research papers** on energy security and power system management.
 
-- Developed a tool to estimate outage costs for the Polish transmission system. The Polish TSO used this tool to justify several critical investments, applying **Monte Carlo** simulations and `parallel computing` on NCBJ clusters to evaluate multiple large-scale scenarios efficiently. The tool implemented complex optimization model (`milp`) written in `Gurobi`.
+- Developed a tool to estimate outage costs for the Polish transmission system. The Polish TSO used this tool to justify several critical investments, applying **Monte Carlo** simulations and parallel computing on NCBJ clusters to evaluate multiple large-scale scenarios efficiently. The tool implemented complex optimization model (MILP) written in `Gurobi`.
 
-- Built from scratch a `PostgreSQL` + `postgis` system, integrating geospatial data from `geoportal` and other public sources to enable fast, scalable analysis for energy and infrastructure planning. Implemented backend data scraping and processing in `Python` using `geoPandas`, `SqlAlchemy`, and `Alembic` for efficient handling of large datasets. Developed several **spatial data algorithms**, including methods for calculating distances between buildings and linear objects (e.g., gas pipes, power lines), which were also applied in my Master’s thesis.
+- Built from scratch a `PostgreSQL` + `PostGIS` system, integrating geospatial data from Geoportal and other public sources to enable fast, scalable analysis for energy and infrastructure planning. Implemented backend data scraping and processing in `Python` using `GeoPandas`, `SqlAlchemy`, and `Alembic` for efficient handling of large datasets. Developed several **spatial data algorithms**, including methods for calculating distances between buildings and linear objects (e.g., gas pipes, power lines), which were also applied in my Master’s thesis.
 
-- Developed a `Streamlit` app to optimize cost-efficient solar installations for individual buildings in the prosumer system. Implemented the optimization as a **linear model** using the `glpk` solver and deployed on `AWS EC2`.
+- Developed a `Streamlit` app to optimize cost-efficient solar installations for individual buildings in the prosumer system. Implemented the optimization as a **linear model** using the `GLPK` solver and deployed on `AWS EC2`.
 
 -  Developed the zefir.app application to optimize municipality energy mix and managed a small development team. Worked on the backend with `FastAPI`, `SqlAlchemy`,`Alembic` and data pipelines with `Apache Airflow`, coordinating closely with the `React` frontend to ensure smooth feature delivery and reliable data workflows.
 
