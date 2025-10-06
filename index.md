@@ -5,8 +5,7 @@ layout: default
 
 # Krzysztof Królikowski
 
-**Software Engineer**
-
+**Software Engineer**  
 Warsaw, Poland  
 ☎️ +48 123 456 789  | 📧 example@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/krzysztofkrolikowski) | 🐙 [GitHub](https://github.com/ohmycoffe)
 
