@@ -16,13 +16,13 @@ I’m a software engineer with **5+** years of experience and co-author of **two
 
 ## Experience
 
-### Software Engineer | Paramount
+### Software Engineer @ Paramount
 *April 2023 - Present | Warsaw, Poland*
 
 Developing and maintaining an internal system for managing advertising campaigns in the advanced advertisement area. I primarily work on backend services (`FastAPI`, `Flask`, `Tornado`). My responsibilities include gathering requirements from product owners, collaborating with the data science team to design the best technical solutions, implementing them, and maintaining them in production. I am also heavily involved in developing CI/CD pipelines (`GitHub`) and ETLs (`Argo Workflows`). My role focuses on ensuring the reliability, scalability, and performance of the systems I work on, optimizing queries and data models to efficiently handle large volumes of data in both `PostgreSQL` and `Snowflake`.
 
 
-### Python Developer and R&D Specialist | National Centre for Nuclear Research
+### Python Developer and R&D Specialist @ National Centre for Nuclear Research
 *August 2015 - March 2023 | Warsaw, Poland*
 
 - Led end-to-end development of data processing tools and advanced optimization models in `Python` using `NumPy`, `Pandas`, and `Gurobi`, creating solutions to optimize Poland’s energy mix, manage power flows, and ensure grid reliability. Processed large datasets efficiently, simulated multiple electricity supply scenarios, and identified cost-effective, low-emission strategies. These models were applied in **two published research papers** on energy security and power system management.

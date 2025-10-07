@@ -53,10 +53,12 @@ h3+p {
 
 ul {
   padding-left: 1.26em;
+  padding-bottom: 0.75em;
 }
 
 li {
   list-style-type: disc;
+  padding-bottom: 0.25em;
 }
 
 a {
@@ -128,7 +130,16 @@ code:hover {
   h1, h2, h3 {
     padding: .75em 0 .25em 0;
   }
+
   p {
     padding: .5em 0;
+  }
+
+  ul {
+    padding-bottom: .5em;
+  }
+
+  .tech-pills {
+    gap: 0.25em;
   }
 }
