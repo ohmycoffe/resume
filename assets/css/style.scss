@@ -1,61 +1,61 @@
 ---
 ---
 
+* {
+	margin: 0;
+	padding: 0;
+}
+
 body {
   background-color: #ffffff;
-  color: #333333;
-  font-family: "Inter", system-ui, sans-serif;
-  line-height: 1.6;
-  font-size: 1rem;
+  color: #333;
+  font-family: "Georgia", system-ui, serif;
+  line-height: 1.5;
+  font-size: 1.125em;
   max-width: 50rem;
   margin: 0 auto;
   padding: 2rem;
 }
 
+h1, h2, h3 {
+	color: #000;
+	font-weight: normal;
+	line-height: 1.26em;
+	padding: 1em 0 .5em 0;
+}
+
 h1 {
-  color: #2c3e50;
-  font-weight: 600;
-  font-size: 1.95rem;
-  line-height: 1.25;
-  margin-top: 0;
-  margin-bottom: 1rem;
+	font-size: 2em;
+	padding-top: 0;
   border-bottom: 2px solid #3498db;
-  padding-bottom: 0.8rem;
 }
 
 h2 {
+	font-size: 1.5876em;
   color: #2980b9;
-  font-weight: 500;
-  font-size: 1.56rem;
-  line-height: 1.3;
-  margin-top: 1.5rem;
-  margin-bottom: 0.8rem;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+
 }
 
 h3 {
+	font-size: 1.26em;
   color: #34495e;
-  font-weight: 500;
-  font-size: 1.25rem;
-  line-height: 1.4;
-  margin-top: 1.2rem;
-  margin-bottom: 0.5rem;
 }
 
 p {
-  margin-bottom: 0.5rem;
-  color: #555555;
+	line-height: 1.5em;
+	padding: .75em 0;
+}
+
+h3+p {
+  padding-top: 0;
 }
 
 ul {
-  margin: 0.5rem 0 1rem 0;
-  padding-left: 1.25rem;
+  padding-left: 1.26em;
 }
 
 li {
-  margin-bottom: 0.3rem;
-  color: #444444;
   list-style-type: disc;
 }
 
@@ -69,30 +69,22 @@ a:hover {
   text-decoration: underline;
 }
 
-strong {
-  color: #2c3e50;
-  font-weight: 600;
-}
-
-em {
-  font-style: italic;
-}
-
 hr {
   border: none;
   height: 1px;
   background-color: #ecf0f1;
-  margin: 1.5rem 0;
+  margin: 1em 0;
 }
 
 code {
   background-color: #f8f9fa;
-  padding: 0.1rem 0.2rem;
+  padding: 0.1em 0.2em;
   border-radius: 3px;
   font-family: "Monaco", "Menlo", "Ubuntu Mono", monospace;
   font-size: 0.9em;
   color: #e74c3c;
   border: 1px solid #e1e4e8;
+  transition: all 0.2s ease;
 }
 
 code:hover {
@@ -103,16 +95,15 @@ code:hover {
 .tech-pills {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  margin: 1rem 0;
+  gap: 0.5em;
 }
 
 .tech-pill {
   background-color: #f8f9fa;
-  padding: 0.3rem 0.6rem;
-  border-radius: 6px;
+  padding: 0.1em 0.2em;
+  border-radius: 3px;
   font-family: "Monaco", "Menlo", "Ubuntu Mono", monospace;
-  font-size: 0.85em;
+  font-size: 0.9em;
   color: #e74c3c;
   border: 1px solid #e1e4e8;
   transition: all 0.2s ease;
@@ -131,31 +122,13 @@ code:hover {
   body {
     padding: 1cm;
     max-width: none;
+    font-size: 1em;
   }
 
-  h1 {
-    margin-bottom: 0.5rem;
+  h1, h2, h3 {
+    padding: .75em 0 .25em 0;
   }
-
-  h2 {
-    margin-top: 1rem;
-    margin-bottom: 0.4rem;
-  }
-
-  h3 {
-    margin-top: 0.8rem;
-    margin-bottom: 0.3rem;
-  }
-
-  p, li {
-    margin-bottom: 0.2rem;
-  }
-
-  ul {
-    margin-bottom: 0.8rem;
-  }
-  
-  hr {
-    margin: 0.8rem 0;
+  p {
+    padding: .5em 0;
   }
 }
