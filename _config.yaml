@@ -4,3 +4,4 @@ baseurl: ""  # Leave empty for local development
 
 exclude:
   - Makefile
+  - README.md

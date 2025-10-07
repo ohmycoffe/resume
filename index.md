@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Krzysztof Królikowski | Resume"
 layout: default
 ---
 
