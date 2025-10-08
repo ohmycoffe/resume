@@ -1,6 +1,6 @@
 markdown: kramdown
 encoding: "utf-8"
-baseurl: ""  # Leave empty for local development
+baseurl: ""  # GitHub Actions will set this automatically
 
 exclude:
   - Makefile
