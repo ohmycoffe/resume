@@ -9,7 +9,6 @@ layout: default
 Warsaw, Poland  
 ☎️ +48 123 456 789  | 📧 example@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/krzysztofkrolikowski) | 🐙 [GitHub](https://github.com/ohmycoffe)
 
-test
 I’m a software engineer with **5+** years of experience and co-author of **two scientific papers** in electrical engineering.
 
 ---
