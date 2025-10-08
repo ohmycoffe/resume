@@ -9,7 +9,7 @@ layout: default
 Warsaw, Poland  
 ☎️ +48 123 456 789  | 📧 example@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/krzysztofkrolikowski) | 🐙 [GitHub](https://github.com/ohmycoffe)
 
-I’m a software engineer with **5+** years of experience and co-author of **two scientific papers** in electrical engineering.
+I’m a software engineer with **5+** years of experience and co-author of **two scientific papers** in electrical engineering area.
 
 ---
 
@@ -37,7 +37,7 @@ Developing and maintaining an internal system for managing advertising campaigns
 
 **Publications:**
 
-- [Management of power systems in emergency states](https://www.researchgate.net/publication/316562436_Management_of_power_systems_in_emergency_states_-_Introduction_of_continuous_risk_measures_to_assess_the_security_of_systems_not_compliant_with_the_n-1_criterion), co-author
+- [Management of power systems in emergency states](https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=Mu_nUD8AAAAJ&citation_for_view=Mu_nUD8AAAAJ:u5HHmVD_uO8C), co-author
 
 - [Energy security in the era of climate neutrality](https://www.pse.pl/home?safeargs=705f705f69643d31303126705f705f6c6966656379636c653d3026705f705f73746174653d6d6178696d697a656426705f705f6d6f64653d76696577265f3130315f7374727574735f616374696f6e3d25324661737365745f7075626c6973686572253246766965775f636f6e74656e74265f3130315f72657475726e546f46756c6c5061676555524c3d68747470732533412532462532467777772e7073652e706c253246686f6d65253346705f61757468253344364b74335a467364253236705f705f696425334433253236705f705f6c6966656379636c6525334431253236705f705f73746174652533446e6f726d616c253236705f705f73746174655f72637625334431265f3130315f6173736574456e74727949643d31313837343039373339265f3130315f747970653d636f6e74656e74265f3130315f75726c5469746c653d62657a706965637a656e7374776f2d656e657267657479637a6e652d772d646f6269652d6e65757472616c6e6f7363692d6b6c696d617479637a6e656a26696e686572697452656469726563743d74727565), co-author
 
