@@ -82,6 +82,7 @@ Thesis: "Utilization of selected methods for assessing the impact of emergency o
   <span class="tech-pill">Tornado</span>
 </div>
 
+---
 ## Languages
 
 - English - Upper intermediate (B2)
