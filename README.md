@@ -33,8 +33,8 @@ bundle install
 Then you can build and serve the site locally:
 
 ```bash
-make build # build static site
-make serve # serve locally
+make build-site # build static site
+make serve-site # serve locally
 ```
 
 ## Docker Setup and Usage
@@ -42,7 +42,7 @@ make serve # serve locally
 You need to have Docker installed. Then you can build the Docker image and run the container:
 
 ```bash
-make docker-build # build Docker image
-make docker-serve # serve with Docker
-make docker-stop  # stop Docker container
+make docker-build-image # build Docker image
+make docker-serve-site # serve with Docker (== `make serve-site`)
+make docker-build-site  # build site with Docker (== `make build-site`)
 ```
