@@ -40,8 +40,9 @@ make serve # serve locally
 ## Docker Setup and Usage
 
 You need to have Docker installed. Then you can build the Docker image and run the container:
+
 ```bash
 make docker-build # build Docker image
 make docker-serve # serve with Docker
 make docker-stop  # stop Docker container
-
+```
