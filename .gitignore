@@ -16,7 +16,6 @@ vendor/
 
 # Gem files
 *.gem
-Gemfile.lock
 
 # OS files
 .DS_Store

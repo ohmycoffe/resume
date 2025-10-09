@@ -5,9 +5,11 @@ You don't need to install Jekyll locally to maintain the site, because GitHub Ac
 
 If you’d like to preview changes locally, follow the instructions below.
 
-## Local Development Setup
+You may install Ruby and Jekyll locally, or use Docker to build and serve the site.
 
-### Prequisites
+## Local Setup and Usage
+
+### Prerequisites
 
 Install Ruby
 
@@ -22,20 +24,24 @@ gem --version
 ### Setup Project
 
 ```bash
-git clone <repo-url>
-
 bundle config set --local path 'vendor/bundle'
 bundle config set --local disable_shared_gems true
 
 bundle install
 ```
 
-## Usage
+Then you can build and serve the site locally:
 
 ```bash
-make serve # serve locally
 make build # build static site
+make serve # serve locally
 ```
 
-## TODO:
-- use rbenv to manage ruby versions
+## Docker Setup and Usage
+
+You need to have Docker installed. Then you can build the Docker image and run the container:
+```bash
+make docker-build # build Docker image
+make docker-serve # serve with Docker
+make docker-stop  # stop Docker container
+
