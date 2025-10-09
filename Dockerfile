@@ -22,5 +22,6 @@ COPY . .
 # Expose the default Jekyll port
 EXPOSE 4000
 
-# Default command: serve with live reload and watching
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4000", "--watch"]
+# Default entrypoint and command
+ENTRYPOINT ["bundle", "exec", "jekyll"]
+CMD ["serve", "--host", "0.0.0.0", "--port", "4000", "--watch"]
