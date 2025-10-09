@@ -97,6 +97,7 @@ code:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5em;
+  padding: .75em 0;
 }
 
 .tech-pill {
@@ -140,5 +141,6 @@ code:hover {
 
   .tech-pills {
     gap: 0.25em;
+    padding: .5em 0;
   }
 }
