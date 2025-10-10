@@ -21,12 +21,13 @@ h1, h2, h3 {
 	color: #000;
 	font-weight: normal;
 	line-height: 1.26em;
-	padding: 1em 0 .5em 0;
+	margin: 1.26em 0 0 0;
 }
 
 h1 {
 	font-size: 2em;
-	padding-top: 0;
+	margin-top: 0;
+  padding-bottom: 0.5em;
   border-bottom: 2px solid #3498db;
 }
 
@@ -44,16 +45,16 @@ h3 {
 
 p {
 	line-height: 1.5em;
-	padding: .75em 0;
+	margin: 1em 0 0 0;
 }
 
 h3+p {
-  padding-top: 0;
+  margin-top: 0.5em;
 }
 
 ul {
   padding-left: 1.26em;
-  padding-bottom: 0.75em;
+  margin: 1.5em 0 1.5em 0;
 }
 
 li {
@@ -74,7 +75,7 @@ hr {
   border: none;
   height: 1px;
   background-color: #ecf0f1;
-  margin: 1em 0;
+  margin: 1.5em 0;
 }
 
 code {
@@ -97,7 +98,7 @@ code:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5em;
-  padding: .75em 0;
+  margin: 1.5em 0 1.5em 0;
 }
 
 .tech-pill {
@@ -128,19 +129,19 @@ code:hover {
   }
 
   h1, h2, h3 {
-    padding: .75em 0 .25em 0;
+    margin-top: 1em;
   }
 
   p {
-    padding: .5em 0;
+    margin-top: .75e;
   }
 
   ul {
-    padding-bottom: .5em;
+    margin: 1em 0 1em 0;
   }
 
   .tech-pills {
     gap: 0.25em;
-    padding: .5em 0;
+    margin: 1em 0 1em 0;
   }
 }
